@@ -8,4 +8,4 @@ Run interface.py. After drawing the number, press "Space" for prediction.
 
 For clearing the frame, press "c".
 
-![](gif/gif.gif)
+![](Gif/gif.gif)
